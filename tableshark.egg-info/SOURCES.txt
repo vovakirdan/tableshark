@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+tableshark/__init__.py
+tableshark/main.py
+tableshark.egg-info/PKG-INFO
+tableshark.egg-info/SOURCES.txt
+tableshark.egg-info/dependency_links.txt
+tableshark.egg-info/requires.txt
+tableshark.egg-info/top_level.txt
